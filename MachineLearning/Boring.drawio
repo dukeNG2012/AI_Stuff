@@ -1,0 +1,100 @@
+<mxfile host="65bd71144e">
+    <diagram id="ZIhaNfRa8zTmWMPRmxiT" name="Page-1">
+        <mxGraphModel dx="1139" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="11" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2" target="5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Start" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="210" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="edgeStyle=none;html=1;" parent="1" source="5" target="6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5" target="12">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Boring" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="220" y="360" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="edgeStyle=none;html=1;" parent="1" source="6" target="8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="- Coi như mình đang làm việc trên 1 cái máy cơ điện tử cũ kỹ (xem các game các thứ)&lt;br&gt;&lt;br&gt;- Áp dụng những kiến thức vừa summary và hiện thực hóa mô hình toán học, vật lý học của bản thân" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="390" y="327.5" width="170" height="145" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Viết bài trên nó" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="630" y="370" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8" target="2" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="720" y="300" as="sourcePoint"/>
+                        <mxPoint x="770" y="250" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="430" y="240"/>
+                            <mxPoint x="440" y="210"/>
+                            <mxPoint x="710" y="200"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="12" target="14">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="12" target="19">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Thèm chơi game?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="197.5" y="490" width="125" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Tự implement một thuật toán bất kỳ nào đó mà mình đã được học&lt;br&gt;&lt;br&gt;VIệc fix bug sẽ khiến mình bận rộn" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="510" width="170" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="8">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="560" y="560" as="sourcePoint"/>
+                        <mxPoint x="610" y="510" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="690" y="560"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="28" value="" style="edgeStyle=none;html=1;fontSize=11;" edge="1" parent="1" source="19" target="27">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Tóm tắt kiến thức?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="197.5" y="710" width="125" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;True&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="360" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;True&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="520" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;False&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="640" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;False&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="440" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;True&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="740" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="Tuyệt đối không được implement lại code (tránh ngủ muộn)&lt;br&gt;&lt;br&gt;Chỉ được tóm tắt lại những gì đã học trong ngày" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="400" y="720" width="165" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=11;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="565" y="785" as="sourcePoint"/>
+                        <mxPoint x="690" y="560" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="690" y="785"/>
+                            <mxPoint x="690" y="735"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

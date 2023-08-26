@@ -1,0 +1,27 @@
+# %%
+import time
+import numpy as np
+
+# %%
+x = np.random.rand(100000);
+y = np.random.rand(100000);
+
+start = time.time();
+c = np.dot(x,y);
+end = time.time();
+print(c)
+print("Vectorization result: " + str(1000*(end-start)) + "ms")
+
+# %%
+c2 = 0;
+start2 = time.time();
+for i in range(10000):
+    c2 = c2 + x[i]*y[i];
+end2 = time.time()
+print(c2)
+print("for loop: " + str(1000*(end2 - start2)) + "ms")
+
+# %%
+
+
+

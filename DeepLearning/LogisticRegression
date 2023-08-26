@@ -1,0 +1,28 @@
+# %%
+import numpy as np
+
+# %%
+x = np.array([-3,-2,-1,0,1,2,3]);
+y = np.zeros(7);
+print(x);
+for i in range(len(x)):
+    fwb = 1*x[i];
+    y[i] = 1/(1+np.exp(-fwb));
+
+
+# %%
+import matplotlib.pyplot as plt
+
+
+# %%
+plt.subplot(1,1,1);
+plt.plot(x,y,color  ="red")
+plt.show();
+
+# %%
+
+
+# %%
+
+
+
